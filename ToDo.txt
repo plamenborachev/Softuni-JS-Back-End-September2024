@@ -42,8 +42,16 @@ Node.js Working with Forms			=> 01:00
 	
 	Off-topic						=> 03:18 - 03:42
 	
-06.Movie-Magic-Workshop-Part-2		=> 04:30 raw
-	test
+06.Movie-Magic-Workshop-Part-2		=> 01:20 / 03:58
+	Mongoose relation between models => 01:40 - 01:59
+	Mongoose populate				=> 01:59 - 02:05
+	Handlebars Helpers				=> 02-15 - 02:26
+	Search filter					=> 02:26 - 02:51
+	Add character name				=> 02:51 - ...
+	ENV VARS						=> 03:22 - 03:30
+	
+	Off-topic						=> 03:32 - 03:58
+	
 
 
 =====================TIP&TRICKS=====================================
@@ -74,6 +82,9 @@ In HTML
 	=> Header Nav hrefs
 	=> name attribute in forms needed for formidable
 		 <input name="name" type="text" id="name" value="{{name}}">
+
+ID in DB must be of type ObjectID!!!!
+
 
 
 

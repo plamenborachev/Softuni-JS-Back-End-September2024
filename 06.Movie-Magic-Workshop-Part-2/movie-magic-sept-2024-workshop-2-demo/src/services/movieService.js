@@ -5,7 +5,7 @@ const getAll = (filter = {}) => {
     let moviesQuery = Movie.find();
 
     if (filter.search) {
-        moviesQuery.find({ title: { $regex: filter.search, $options: 'i' } });
+        moviesQuery.find({ title: { $regex: filter.search, $options: 'i' } }); //$options: 'i' - case insensitive
         // moviesQuery.regex('title', new RegExp(filter.search, 'i'))
     }
 
@@ -22,7 +22,7 @@ const getAll = (filter = {}) => {
     return moviesQuery;
 };
 
-const create = (movie) => Movie.create(movie)
+const create = (movie) => Movie.create(movie);
 
 const getOne = (movieId) => Movie.findById(movieId).populate('casts.cast');
 

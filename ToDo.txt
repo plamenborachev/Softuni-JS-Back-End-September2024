@@ -42,8 +42,8 @@ Node.js Working with Forms			=> 01:00
 	
 	Off-topic						=> 03:18 - 03:42
 	
-06.Movie-Magic-Workshop-Part-2		=> 
-	
+06.Movie-Magic-Workshop-Part-2		=> 04:30 raw
+	test
 
 
 =====================TIP&TRICKS=====================================

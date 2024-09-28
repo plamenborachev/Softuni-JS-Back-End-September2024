@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": [
+            "Plamen Borachev22"
+        ],
+        "description": [
+            "Description2"
+        ],
+        "breed": [
+            "test2"
+        ],
+        "image": "gettyimages-1067956982.webp",
+        "taken": false
+    },
+    {
+        "id": 2,
+        "name": [
+            "Gibiiiiii"
+        ],
+        "description": [
+            "mnogo palavaaaaa"
+        ],
+        "breed": [
+            "Gabi"
+        ],
+        "image": "2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+        "taken": false
+    },
+    {
+        "id": 3,
+        "name": "TEST22",
+        "description": "description2",
+        "breed": "Gabi",
+        "image": "2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+        "taken": true
+    },
+    {
+        "id": 4,
+        "name": "Пламен Борачев",
+        "description": "eqvgqv",
+        "breed": "wegbvwerg",
+        "image": "gettyimages-1067956982.webp",
+        "taken": true
+    },
+    {
+        "id": 5,
+        "name": [
+            "Gibi10"
+        ],
+        "description": [
+            "Description10"
+        ],
+        "breed": [
+            "test10"
+        ],
+        "image": "gettyimages-1067956982.webp",
+        "taken": true
+    },
+    {
+        "id": 6,
+        "name": [
+            "TEST22"
+        ],
+        "description": [
+            "efweqgvfwegvf"
+        ],
+        "breed": [
+            "wegbvwerg"
+        ],
+        "image": "2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+        "taken": true
+    },
+    {
+        "id": 7,
+        "name": "TEST222",
+        "description": "22222",
+        "breed": "test9",
+        "image": "pexels-chevanon-1108099.jpg",
+        "taken": true
+    },
+    {
+        "id": 8,
+        "name": "Пламен Борачев 3",
+        "description": "Description 3",
+        "breed": "test5",
+        "image": "2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+        "taken": false
+    }
+]

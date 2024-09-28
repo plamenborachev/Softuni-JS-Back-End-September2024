@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "mariah2",
+        "description": "Incredibly loving cat with kind habits and tiny voice. Love hugs and wool balls.",
+        "breed": "Angora"
+    },
+    {
+        "id": 2,
+        "name": "Tom2",
+        "description": "Joyfull and funny kitty, a potential best friend.",
+        "breed": "Bengal"
+    },
+    {
+        "id": 3,
+        "name": "Amica",
+        "description": "Wherever she goes, love follows! Kind and warm cat, a good child care tender",
+        "breed": "Chartreux",
+        "image": "chartreux.jpg",
+        "taken": false
+    },
+    {
+        "id": 4,
+        "name": "Savana",
+        "description": "Empty cat, needs to be filled with love!",
+        "breed": "Havana",
+        "image": "havana.jpg",
+        "taken": false
+    },
+    {
+        "id": 5,
+        "name": "Einstein",
+        "description": "This cat is clever as a hive of rabbits!",
+        "breed": "Persian Cat",
+        "image": "persian.jpeg",
+        "taken": true
+    },
+    {
+        "id": 6,
+        "name": "Plamen Borachev",
+        "description": "Description",
+        "breed": "Bengal",
+        "image": "pexels-chevanon-1108099.jpg",
+        "taken": false
+    }
+]

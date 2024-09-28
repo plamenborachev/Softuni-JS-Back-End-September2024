@@ -110,11 +110,6 @@ let oldPath = files.upload.path;
 
 =========================================================================================
 
-mongodb+srv://plamenborachev:p77hVz02yKGeILcY@clusterjs.xcx9k.mongodb.net/
-
-plamenborachev
-p77hVz02yKGeILcY
-
 
 
 

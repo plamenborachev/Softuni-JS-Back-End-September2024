@@ -52,6 +52,13 @@ Node.js Working with Forms			=> 01:00
 	
 	Off-topic						=> 03:32 - 03:58
 	
+07.Sessions-and-Authentication		=> 
+
+
+
+	JS Back-End - януари 2024		=> 03:43
+	Off-topic						=> 03:25 - 03:43
+	
 
 
 =====================TIP&TRICKS=====================================
@@ -110,10 +117,6 @@ let oldPath = files.upload.path;
 
 =========================================================================================
 
-mongodb+srv://plamenborachev:p77hVz02yKGeILcY@clusterjs.xcx9k.mongodb.net/
-
-plamenborachev
-p77hVz02yKGeILcY
 
 
 

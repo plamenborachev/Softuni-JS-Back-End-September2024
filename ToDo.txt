@@ -53,13 +53,25 @@ Node.js Working with Forms			=> 01:00
 	
 	Off-topic						=> 03:32 - 03:58
 	
-07.Sessions-and-Authentication		=> 
-
-
+07.Sessions-and-Authentication		=> 04:16
+	Cookies 						=> 00:00 - 01:01
+	Sessions						=> 01:01 - 01:09
+	Authentication Concepts			=> 01:09 - ...
+	JSONWeb Token					=> 
+	
+	Off-topic						=> 03:18 - 04:16
 
 	JS Back-End - януари 2024		=> 03:43
 	Off-topic						=> 03:25 - 03:43
 	
+08.Movie-Magic-Workshop-Part-3		=>
+	
+	JS Back-End - януари 2024		=> 02:45 / 04:23
+	Off-topic						=> 03:34 - 04:23
+	
+Asynchronous Programming - JS Applications - юни 2024	=> 03:25
+
+
 
 
 =====================TIP&TRICKS=====================================
@@ -80,7 +92,7 @@ to run specific random.js file: node .\random.js
 
 npm install express
 
-import/export => "type": "module", in package.json
+import/export => "type": "module", (in package.json)
 
 
 =====================BE CAREFULL====================================

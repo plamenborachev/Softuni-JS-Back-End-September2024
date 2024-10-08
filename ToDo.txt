@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======================VIDEOS======================================================
 
 00.Course-Intro
@@ -56,15 +55,21 @@ Node.js Working with Forms			=> 01:00
 07.Sessions-and-Authentication		=> 04:16
 	Cookies 						=> 00:00 - 01:01
 	Sessions						=> 01:01 - 01:09
-	Authentication Concepts			=> 01:09 - ...
-	JSONWeb Token					=> 
+	Authentication Concepts			=> 01:09 - 02:13
+	JSONWeb Token					=> 02:13 - 03:18
 	
 	Off-topic						=> 03:18 - 04:16
 
 	JS Back-End - януари 2024		=> 03:43
 	Off-topic						=> 03:25 - 03:43
 	
-08.Movie-Magic-Workshop-Part-3		=>
+08.Movie-Magic-Workshop-Part-3		=> 01:43 / 03:48
+	Bug fixing						=> ... - 00:41
+	Login							=> 00:41 - 01:43
+	Authorization					=> 01:43 - ...
+	Edit movie						=> 
+	
+	Off-topic						=> 03:20 - 03:48
 	
 	JS Back-End - януари 2024		=> 02:45 / 04:23
 	Off-topic						=> 03:34 - 04:23
@@ -94,6 +99,8 @@ npm install express
 
 import/export => "type": "module", (in package.json)
 
+.env!!! 
+
 
 =====================BE CAREFULL====================================
 
@@ -102,6 +109,7 @@ In HTML
 	=> Header Nav hrefs
 	=> name attribute in forms needed for formidable
 		 <input name="name" type="text" id="name" value="{{name}}">
+	=> EDIT DELETE BUTTONS => must be <a>href="..."</a>
 
 ID in DB must be of type ObjectID!!!!
 
@@ -128,130 +136,3 @@ let oldPath = files.upload.path;
 
 
 
-=========================================================================================
-
-
-
-
-
-
-
-=======
-=======================VIDEOS======================================================
-
-00.Course-Intro
-
-01.Intro-to-NodeJS					=> 04:18
-	Modules							=> ... - 02:11
-	Node.js Web Server				=> 02:11 - 02:29
-	Request & Response Wrappers		=> 02:29 - 02:40
-	cat-shelter						=> 02:40 - 03:20
-	Off-topic						=> 03:20 - 04:18
-
-Bonus
-Node.js Working with Forms			=> 01:00
-
-02.NodeJS-Streams-and-Utilities		=> 04:23
-	Publish-Subscribe Pattern		=> 00:00 - 00:53
-	Events							=> 00:53 - 01:05
-	Streams							=> 01:05 - 01:50
-	FS Module						=> 01:50 - 02:17
-	Debugging						=> 02:17 - 02:30
-	cat-shelter (failed, watch this instead - Node.js Working with Forms)	=> 02:30 - 04:08
-	
-	Off-topic						=> 04:08 - 04:23
-	
-03.ExpressJS-and-Templating			=> 03:41
-	Introduction to Express.js		=> 00:13 - 00:36
-	Router in Express.js			=> 00:36 - 01:07
-	Middleware						=> 01:07 - ...
-	Static Files					=> ... - 01:49
-	Templating Concepts				=> 01:49 - 02:06
-	Templating with Handlebars		=> 02:06 - 03:25
-	
-	Off-topic						=> 03:25 - 03:41
-	
-04.Movie-Magic-Workshop-Part-1		=> 03:45
-	Off-topic						=> 03:18 - 03:45
-	
-05.NoSQL-and-MongoDB				=> 03:42
-	Mongoose Overview				=> 01:32 - 01:51
-	Mongoose Models/CRUD/...		=> 01:51 - 03:02	
-	Mongoose Queries				=> 03:02 - 03:18
-	
-	Off-topic						=> 03:18 - 03:42
-	
-06.Movie-Magic-Workshop-Part-2		=> 01:20 / 03:58
-	Mongoose relation between models => 01:40 - 01:59
-	Mongoose populate				=> 01:59 - 02:05
-	Handlebars Helpers				=> 02-15 - 02:26
-	Search filter					=> 02:26 - 02:51
-	Add character name				=> 02:51 - ...
-	ENV VARS						=> 03:22 - 03:30
-	
-	Off-topic						=> 03:32 - 03:58
-	
-
-
-=====================TIP&TRICKS=====================================
-
-npm init --y
-
-npm install express
-
-npm i -D nodemon
-"scripts": {
-	"start": "nodemon index.js"
-	//"start": "node index.js"
-}
-
-to run default file set in "scripts": npm start
-
-to run specific random.js file: node .\random.js
-
-npm install express
-
-import/export => "type": "module", in package.json
-
-
-=====================BE CAREFULL====================================
-
-In HTML
-	=> Forms action and method
-	=> Header Nav hrefs
-	=> name attribute in forms needed for formidable
-		 <input name="name" type="text" id="name" value="{{name}}">
-
-ID in DB must be of type ObjectID!!!!
-
-
-
-
-=====================CAT SHELTER====================================
-
-ok - catBreed list refresh single select
-ok - add cat - "formidable": "^1.2.2" with latest version!!! []!!!
-- cats-edit POST cats-find-new-homerefresh home page
-
-
-"id": 3,
-"name": "TEST",
-"description": "description",
-"breed": "test3",
-"image": "2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
-"taken": false
-
-"formidable": "^1.2.2",
-let oldPath = files.upload.path;      
-
-
-
-
-=========================================================================================
-
-
-
-
-
-
->>>>>>> 13d65fba2a04001160fc8a98cfff0fd202dbffaa

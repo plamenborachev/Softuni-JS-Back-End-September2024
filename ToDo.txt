@@ -79,9 +79,12 @@ Node.js Working with Forms			=> 01:00
 	Error Handling					=> 02:27 - 03:38
 	Off-topic						=> 03:38 - 03:47
 	
+10.ExamPreparation1					=> 02:29 / 03:30
+
+	Off-topic						=> 03:16 - 03:30
+	
+	
 Asynchronous Programming - JS Applications - юни 2024	=> 03:25
-
-
 
 
 =====================TIP&TRICKS=====================================
@@ -116,6 +119,7 @@ In HTML
 		 <input name="name" type="text" id="name" value="{{name}}">
 	=> EDIT DELETE BUTTONS => must be <a>href="..."</a>
 
+If not connects to db => check if mongoose service is running in background
 ID in DB must be of type ObjectID!!!!
 
 
@@ -136,7 +140,10 @@ ok - add cat - "formidable": "^1.2.2" with latest version!!! []!!!
 "taken": false
 
 "formidable": "^1.2.2",
-let oldPath = files.upload.path;      
+let oldPath = files.upload.path;    
+
+
+Operator Mono, Consolas, 'Courier New', monospace  
 
 
 

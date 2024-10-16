@@ -82,7 +82,13 @@ Node.js Working with Forms			=> 01:00
 10.ExamPreparation1					=> 02:29 / 03:30
 
 	Off-topic						=> 03:16 - 03:30
+
+11.ExamPreparation2					=> 04:00
+	select selected					=> 01:05 - 01:15
 	
+	Off-topic						=> 03:33 - 04:00
+	
+12.Workshop-REST-Api				=> 
 	
 Asynchronous Programming - JS Applications - юни 2024	=> 03:25
 
